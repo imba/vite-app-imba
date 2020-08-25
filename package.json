@@ -1,0 +1,15 @@
+{
+  "name": "vite-app-imba",
+  "version": "1.0.0",
+  "description": "starter imba app using vite as a bundler",
+  "main": "app-root.imba",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^1.0.0-rc.4"
+  }
+}
